@@ -1,8 +1,15 @@
 #include <stdio.h>
 	/**
-	* Description: main - Prints out a string to stdout.
 	* main - Entry point
-	 * Return: Always 0 (Success)
+	*
+	
+
+	
+
+	
+
+	* Return: 0 if success
+	* Description: main - Prints out a string to stdout.
 	*/
 	int main(void)
 	{
