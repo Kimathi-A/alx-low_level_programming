@@ -1,18 +1,22 @@
-#include <stdio.h>
-	/**
-	* main - Entry point
-	*
-	
+#include <stdio.h>                                                                      
 
-	
+        /**                                                                             
 
-	
+        * Description: main - Prints out a string to stdout.                            
 
-	* Return: 0 if success
-	* Description: main - Prints out a string to stdout.
-	*/
-	int main(void)
-	{
-		printf("with proper grammar, but the outcome is a piece of art,\n");
-		return (0);
-	}
+        * main - Entry point                                                            
+
+         * Return: Always 0 (Success)                                                   
+
+        */                                                                              
+
+        int main(void)                                                                  
+
+        {                                                                               
+
+                printf("with proper grammar, but the outcome is a piece of art,\n");    
+
+                return (0);                                                             
+
+        }  
+
