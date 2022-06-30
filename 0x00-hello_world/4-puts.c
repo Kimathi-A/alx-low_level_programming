@@ -1,10 +1,10 @@
 #include <stdio.h>
 	/**
-	* main - Prints "Programming is like building a multilingual
+	* main - Entry point
 	*
-	 * Return: Always 0.
+	* Return: Always 0.
 	*/
-	int main(void) /* main function */
+	int main(void) /* body of main function */
 	{
 		puts("\"Programming is like building a multilingual puzzle");
 		return (0);
