@@ -1,52 +1,18 @@
 #include "main.h"
-
-
-
 /**
-
- * print_alphabet_x10 - print alphabet
-
- *
-
- * Return: Always 0.
-
- */
-
+*main -entry point
+*Description:'this nu'
+*
+*/
 void print_alphabet_x10(void)
-
 {
+	int count = 0;
+	char letter;
 
-int alphabet;
-
-int count;
-
-
-
-
-
-count = 0;
-
-while (count < 10)
-
-{
-
-for (alphabet = 'a' ; alphabet <= 'z'; alphabet++)
-
-{
-
-_putchar(alphabet);
-
+	while (count++ <= 9)
+	{
+		for (letter = 'a'; letter <= 'z'; letter++)
+			_putchar(letter);
+		_putchar('\n');
+	}
 }
-
-
-
-count++;
-
-_putchar('\n');
-
-}
-
-
-
-
-
