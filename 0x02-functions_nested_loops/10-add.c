@@ -1,24 +1,27 @@
 #include "main.h"
 
 #include <stdio.h>
+
+
+
 /**
 
- * add - Adds two integers.
+ * add -prints add two numbers
 
- * @num1: The first integer to be added.
+ *@i: print int i
 
- * @num2: The second integer to be added.
+ *@k: print int k
 
- *
-
- * Return: The result of the addition.
+ * Return: Always 0.
 
  */
 
-int add(int num1, int num2)
+
+
+int add(int i, int k)
 
 {
 
-	return (num1 + num2);
+return (i + k);
 
 }
