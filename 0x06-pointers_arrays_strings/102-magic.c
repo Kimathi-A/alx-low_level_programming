@@ -29,8 +29,8 @@ int main(void)
    * - you are not allowed to modify p
 
    * - only one statement
-   * Description:'the prm'
- * - you are not allowed to code anything else than this line of code
+
+   * - you are not allowed to code anything else than this line of code
 
    */
 
